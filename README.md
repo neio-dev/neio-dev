@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working oen ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -17,4 +17,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Beautiful;Code+addict;Vue%2C+React+developer)](https://git.io/typing-svg)
 
-[![github](https://img.shields.io/badge/Add%20me%20on%20Discord-5865F2?style=for-the-badoge&logo=Discord&logoColor=white)](https://discordapp.com/users/328911626483007499)
+- 🔭 I’m currently working on ultimateagent
+- 🌱 I’m currently learning: python
+- 📫 How to reach me: [![github](https://img.shields.io/badge/Add%20me%20on%20Discord-5865F2?style=for-the-badoge&logo=Discord&logoColor=white)](https://discordapp.com/users/328911626483007499)
+
