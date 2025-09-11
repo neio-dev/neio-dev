@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ultimateagent
 - 🌱 I’m currently learning: python
-- 📫 How to reach me: [![github](https://img.shields.io/badge/Add%20me%20on%20Discord-5865F2?style=for-the-badoge&logo=Discord&logoColor=white)](https://discordapp.com/users/328911626483007499)
 
 
 <h3>Using</h3>
