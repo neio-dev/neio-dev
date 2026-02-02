@@ -1,25 +1,10 @@
 ## Hi there 👋
 ![](https://komarev.com/ghpvc/?username=neio-dev)
 
-<!--
-**neio-dev/neio-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working oen ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Beautiful;Code+addict;Vue%2C+React+developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on Lyly's Life, a tamagotchi web game made in vanilla JS (with all the pixel art custom made)
-- 🌱 I’m currently learning: python
+- 🌱 I’m currently learning: lua
 
 
 <h3>Using</h3>
